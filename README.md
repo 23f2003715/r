@@ -1,1 +1,1 @@
-# r
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4DC1F7&width=435&lines=Hi%2C+I'm+Shivani+;BS+in+Data+Science+%26+Applications+;Java%7CPython)](https://git.io/typing-svg)
